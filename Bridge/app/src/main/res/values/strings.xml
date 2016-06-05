@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Bridge</string>
+    <string name="str_btnTxt">Speak</string>
+    <string name="str_wlcm">Welcome to Bridge</string>
+    <string name="str_ready">Ready to scan</string>
+    <string name="bridge">Bridge</string>
+</resources>
